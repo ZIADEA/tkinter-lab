@@ -1,0 +1,13 @@
+Application : mon_application
+========================================
+
+**Snake - Version Avancée**
+
+Cette application est une version moderne et sophistiquée du célèbre jeu Snake. Le joueur contrôle un serpent qui grandit en mangeant de la nourriture rouge pulsante sur une grille sombre stylisée. 
+
+Le jeu propose plusieurs fonctionnalités avancées : des obstacles gris qui apparaissent progressivement (tous les 50 points), une vitesse qui s'accélère automatiquement à chaque nourriture consommée, et un système d'effets visuels avec des particules dorées lors de la collecte et rouges lors du game over. Le serpent peut traverser les bords de l'écran pour réapparaître de l'autre côté.
+
+Le score et le meilleur score sont affichés en permanence. Les contrôles sont intuitifs : les flèches directionnelles pour changer de direction et la barre d'espace pour commencer une nouvelle partie. Le défi augmente progressivement avec l'ajout d'obstacles et l'accélération du rythme, rendant le jeu de plus en plus intense au fil de la progression.
+
+========================================
+Exporté depuis TkLearn Studio
