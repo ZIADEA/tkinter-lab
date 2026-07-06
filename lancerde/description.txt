@@ -1,0 +1,13 @@
+Application : lancerde
+========================================
+
+**Lanceur de Dés - Application de Simulation Multi-Dés**
+
+Cette application est un simulateur de lancer de dés interactif avec analyse statistique avancée. Elle permet de lancer simultanément 1 à 3 dés en cliquant sur l'écran, avec une animation réaliste montrant les dés qui roulent avant de s'arrêter sur leur valeur finale. L'application affiche des dés en 3D avec des points colorés et des ombres pour un rendu visuel attrayant.
+
+La fonctionnalité principale inclut un système de statistiques complet qui enregistre tous les lancers dans un historique et génère automatiquement un histogramme des fréquences des totaux obtenus. L'utilisateur peut voir en temps réel combien de fois chaque somme est apparue, ainsi que le nombre total de lancers effectués et la moyenne des résultats.
+
+L'interface propose des boutons pour choisir le nombre de dés (1, 2 ou 3) et réinitialise automatiquement les statistiques lors du changement. L'application est parfaite pour l'apprentissage des probabilités, les jeux de société, ou simplement pour s'amuser avec des lancers de dés virtuels avec un suivi détaillé des résultats.
+
+========================================
+Exporté depuis TkLearn Studio
